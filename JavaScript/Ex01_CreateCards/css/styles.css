@@ -1,0 +1,47 @@
+body{
+    text-align: center;
+}
+
+img{
+    width: 150px;
+    height: 100px;
+    margin: 30px;
+}
+
+div{
+    position: absolute;
+    width: 500px;
+    height: 230px;
+    padding: 10px;
+    border: 5px double;
+    font-size: 16px;
+    text-align: justify;
+    top: 200px;
+    left: 695px;
+    visibility: hidden; /*Ocultar divs*/
+}
+
+div img{
+    margin: 10px;
+    float: left;
+    width: 250px;
+    height: 200px;
+}
+
+#santana_2000{
+    background-color: silver;
+    color: black;
+    border-color: black;
+}
+
+#galant{
+    background-color: silver;
+    color: black;
+    border-color: black;
+}
+
+#gtr_r35{
+    background-color: #ccc;
+    color: black;
+    border-color: rgb(0, 0, 0);
+}
